@@ -4,4 +4,4 @@
 3. start docker-compose
 ```shell
 docker-compose up -d
-``
+```
